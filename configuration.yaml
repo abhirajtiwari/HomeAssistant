@@ -11,3 +11,7 @@ automation: !include automations.yaml
 script: !include scripts.yaml
 scene: !include scenes.yaml
 
+duckdns:
+    domain: brenhome
+    access_token: dda13622-572c-426b-861e-5070abed5090
+
